@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OrderList</string>
+    <string name="order_title_hint">Введите наименование заказа.</string>
+    <string name="crime_title">Введите ЦТ заказа.</string>
+    <string name="order_title_label">ЦТ</string>
+    <string name="order_details_label">Подробнее</string>
+    <string name="order_done_label">Сдано</string>
+    <string name="order_oxidation_label">оксид</string>
+    <string name="order_heat_label">ТО</string>
+</resources>
